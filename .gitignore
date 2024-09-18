@@ -1,0 +1,23 @@
+# Ignorer les fichiers et répertoires système
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+_netrc
+
+# Ignorer les paramètres de VSCode (optionnel)
+.vscode/
+
+# Ignorer les fichiers cache Python (si ton projet est en Python)
+__pycache__/
+*.pyc
